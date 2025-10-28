@@ -189,10 +189,6 @@ button{
     width: 100%;
     height: auto;
     min-height: 650px;
-    background-image: url("../Images/banner.jpg");
-    background-repeat: no-repeat;
-    background-position: center center;
-    background-size: cover;
     background-attachment: fixed;
     padding: 200px 0 100px 0;
     
@@ -376,4 +372,5 @@ button{
 }
 .footer_wrapper .copyright-text a{
     color: var(--primary-color);
+
 }
